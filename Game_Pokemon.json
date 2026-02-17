@@ -1,21 +1,21 @@
 {
-  "name": "Pokemon",
-  "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-Pokemon/Images/1.jpg",
+  "name": "Pokemon-update-0.1",
+  "menuBackgroundImage": "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/Images/1.jpg",
   "defaultRessources": {
     "backgrounds": [
-      "https://valcur.github.io/TCG-Arena-Pokemon/Images/1.jpg",
-      "https://valcur.github.io/TCG-Arena-Pokemon/Images/2.jpg",
-      "https://valcur.github.io/TCG-Arena-Pokemon/Images/3.jpg",
-      "https://valcur.github.io/TCG-Arena-Pokemon/Images/4.jpg",
-      "https://valcur.github.io/TCG-Arena-Pokemon/Images/5.jpg",
-      "https://valcur.github.io/TCG-Arena-Pokemon/Images/6.jpg"
+      "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/Images/1.jpg",
+      "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/Images/2.jpg",
+      "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/Images/3.jpg",
+      "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/Images/4.jpg",
+      "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/Images/5.jpg",
+      "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/Images/6.jpg"
     ],
-    "decksUrl": "https://valcur.github.io/TCG-Arena-Pokemon/PokemonDecks.json"
+    "decksUrl": "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/PokemonDecks.json"
   },
   "customHelp": "Click your deck and hold to drag and drop the top card to add it to your prizes.",
   "cardRotation": 90,
   "cards": {
-    "dataUrl": "https://valcur.github.io/TCG-Arena-Pokemon/PokemonCards.json",
+    "dataUrl": "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/PokemonCards.json",
     "cardBack": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4f7705ec-8c49-4eed-a56e-c21f3985254c/dah43cy-a8e121cb-934a-40f6-97c7-fa2d77130dd5.png/v1/fill/w_1024,h_1420/pokemon_card_backside_in_high_resolution_by_atomicmonkeytcg_dah43cy-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQyMCIsInBhdGgiOiJcL2ZcLzRmNzcwNWVjLThjNDktNGVlZC1hNTZlLWMyMWYzOTg1MjU0Y1wvZGFoNDNjeS1hOGUxMjFjYi05MzRhLTQwZjYtOTdjNy1mYTJkNzcxMzBkZDUucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.9GzaYS7sd8RPY5FlHca09J9ZQZ9D9zI69Ru-BsbkLDA"
   },
   "deckBuilding": {
@@ -74,37 +74,37 @@
         {
           "id": "Asleep",
           "name": "Asleep token",
-          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Asleep.png"
+          "image": "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/Images/Tokens/Asleep.png"
         },
         {
           "id": "Burned",
           "name": "Burned token",
-          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Burned.png"
+          "image": "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/Images/Tokens/Burned.png"
         },
         {
           "id": "Fainted",
           "name": "Fainted token",
-          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Fainted.png"
+          "image": "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/Images/Tokens/Fainted.png"
         },
         {
           "id": "Frozen",
           "name": "Frozen token",
-          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Frozen.png"
+          "image": "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/Images/Tokens/Frozen.png"
         },
         {
           "id": "Paralysis",
           "name": "Paralysis token",
-          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Paralysis.png"
+          "image": "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/Images/Tokens/Paralysis.png"
         },
         {
           "id": "Poisoned",
           "name": "Poisoned token",
-          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/Poisoned.png"
+          "image": "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/Images/Tokens/Poisoned.png"
         },
         {
           "id": "BadPoisoned",
           "name": "Badly poisoned token",
-          "image": "https://valcur.github.io/TCG-Arena-Pokemon/Images/Tokens/BadPoisoned.png"
+          "image": "https://sappin.github.io/TCG-Arena-Pokemon-me2pt5/Images/Tokens/BadPoisoned.png"
         }
       ],
       "countersStartingValues": [
